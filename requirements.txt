@@ -1,0 +1,8 @@
+pandas
+requests
+schedule
+seaborn
+matplotlib
+streamlit
+jupyter
+ipykernel
