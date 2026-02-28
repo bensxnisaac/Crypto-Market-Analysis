@@ -4,6 +4,10 @@
 
 This report analyzes cryptocurrency market data from the CoinGecko API, covering the top 100 cryptocurrencies by market capitalization.
 
+### Note
+
+More visual and analysis are available at [Crypto Market Analysis Streamlit Dashboard](https://bensxnisaac-crypto-market-analysis-dashboardsapp-25wirn.streamlit.app/)
+
 ## Key Findings
 
 ### Market Summary
